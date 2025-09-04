@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 809d41e03f005f74781f2d06c7899129
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6136205710002122212
+    second: Pause Menu buttons_0
+  - first:
+      213: 3876584099115259374
+    second: Pause Menu buttons_1
+  - first:
+      213: -1541075218553701399
+    second: Pause Menu buttons_2
+  - first:
+      213: -4896553092517519427
+    second: Pause Menu buttons_3
+  - first:
+      213: 1644798044167520006
+    second: Pause Menu buttons_4
+  - first:
+      213: -6158550495005621758
+    second: Pause Menu buttons_5
+  - first:
+      213: 5431421413766542048
+    second: Pause Menu buttons_6
+  - first:
+      213: -7506992845777704825
+    second: Pause Menu buttons_7
+  - first:
+      213: 4131969996627517223
+    second: Pause Menu buttons_8
+  - first:
+      213: 4176110182689218897
+    second: Pause Menu buttons_9
+  - first:
+      213: -5544428689793195113
+    second: Pause Menu buttons_10
+  - first:
+      213: 3005258821836176810
+    second: Pause Menu buttons_11
+  - first:
+      213: -9185003805785001589
+    second: Pause Menu buttons_12
+  - first:
+      213: 7850181665945949941
+    second: Pause Menu buttons_13
+  - first:
+      213: -3538334265237757152
+    second: Pause Menu buttons_14
+  - first:
+      213: -6978391665501675475
+    second: Pause Menu buttons_15
+  - first:
+      213: -693992976399620872
+    second: Pause Menu buttons_16
+  - first:
+      213: -3130028461789075324
+    second: Pause Menu buttons_17
+  - first:
+      213: -8600776142751694079
+    second: Pause Menu buttons_18
+  - first:
+      213: -8429124564343244748
+    second: Pause Menu buttons_19
+  - first:
+      213: 8744541363299511029
+    second: Pause Menu buttons_20
+  - first:
+      213: 4383353654602748230
+    second: Pause Menu buttons_21
+  - first:
+      213: -6995758050303483679
+    second: Pause Menu buttons_22
+  - first:
+      213: 2634495662179309443
+    second: Pause Menu buttons_23
+  - first:
+      213: 3867135529298201034
+    second: Pause Menu buttons_24
+  - first:
+      213: -7040046918343374434
+    second: Pause Menu buttons_25
+  - first:
+      213: -7906662644644910399
+    second: Pause Menu buttons_26
+  - first:
+      213: 3365424811832934445
+    second: Pause Menu buttons_27
+  - first:
+      213: -8387626778435300221
+    second: Pause Menu buttons_28
+  - first:
+      213: 9014945778260331616
+    second: Pause Menu buttons_29
+  - first:
+      213: -618190234936233142
+    second: Pause Menu buttons_30
+  - first:
+      213: 4934455599376831424
+    second: Pause Menu buttons_31
+  - first:
+      213: 3485996465198257511
+    second: Pause Menu buttons_32
+  - first:
+      213: -5607286326172168276
+    second: Pause Menu buttons_33
+  - first:
+      213: -6752320264695673100
+    second: Pause Menu buttons_34
+  - first:
+      213: -2040865254982767941
+    second: Pause Menu buttons_35
+  - first:
+      213: 363142452575254492
+    second: Pause Menu buttons_36
+  - first:
+      213: 5978402250712033895
+    second: Pause Menu buttons_37
+  - first:
+      213: 8517507386249846406
+    second: Pause Menu buttons_38
+  - first:
+      213: -4308127044599898111
+    second: Pause Menu buttons_39
+  - first:
+      213: 4567348634241666450
+    second: Pause Menu buttons_40
+  - first:
+      213: 7013880078320659870
+    second: Pause Menu buttons_41
+  - first:
+      213: -6736228779565687524
+    second: Pause Menu buttons_42
+  - first:
+      213: -1754538986883448700
+    second: Pause Menu buttons_43
+  - first:
+      213: -1094535779527350543
+    second: Pause Menu buttons_44
+  - first:
+      213: -6277499517636410357
+    second: Pause Menu buttons_45
+  - first:
+      213: 1706092400841003759
+    second: Pause Menu buttons_46
+  - first:
+      213: -6600882312238108990
+    second: Pause Menu buttons_47
+  - first:
+      213: -9140956354160710751
+    second: Pause Menu buttons_48
+  - first:
+      213: 4002350908060113501
+    second: Pause Menu buttons_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pause Menu Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cc42bdc908935478bc324496df1378
+      internalID: 453587013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Menu Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 683
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a808ac2ca7fe8c1458d0049c74f1ed36
+      internalID: -1967046082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Menu Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf9c32bf8b3084ba280df722961cf4
+      internalID: -750158841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Menu Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 342
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672954083f5f82428309ba938140966
+      internalID: -568182519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Menu Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d0c5e9e1174d94f83e7e4d6de8aea5
+      internalID: -439996557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Menu Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 512
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1425c3ed0bc6054087f0569bacf75fa
+      internalID: 1986896930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 37b8dab8fa8f6dd4495f470831e4d80d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":3.0},"gridSpriteSize":{"x":512.0,"y":341.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pause Menu Buttons_0: 453587013
+      Pause Menu Buttons_1: -1967046082
+      Pause Menu Buttons_2: -750158841
+      Pause Menu Buttons_3: -568182519
+      Pause Menu Buttons_4: -439996557
+      Pause Menu Buttons_5: 1986896930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
